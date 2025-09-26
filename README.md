@@ -65,33 +65,26 @@ console.log("🚀 Ready to revolutionize the digital world!");
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Mission Status
 
-<div align="center">
+<div align="left">
 
 ```bash
 $ whoami
-kigemmanuel
+> kigemmanuel
 
 $ cat /etc/developer.conf
-┌─────────────────────────────────────────────────────────┐
-│  🎯 Focus Areas:                                        │
-│  ├── Full Stack Web Development                         │
-│  ├── Telegram Bot Development                           │
-│  ├── Telegram Mini App Integration                      │
-│  └── Blockchain & Cryptocurrency                        │
-│                                                         │
-│  🔧 Current Projects:                                   │
-│  ├── [CLASSIFIED] - 96% Private Repos                  │
-│  ├── Advanced Telegram Bot Systems                      │
-│  ├── Snapp Framework Development                        │
-│  └── Custom API Solutions                               │
-│                                                         │
-│  ⚡ Status: ACTIVELY CODING                             │
-└─────────────────────────────────────────────────────────┘
+FOCUS AREAS:
+├── Full Stack Web Development
+├── Telegram Bot Development
+├── Telegram Mini App Integration
+└── Blockchain & Cryptocurrency
+
+ACTIVE PROJECTS:
+├── [CLASSIFIED] - 96% Private Repos
+└── Snapp Framework Development
 
 $ git status
-On branch main
-Your code is up to date with 'innovation'
-Working directory: clean & optimized
+> Branch: main  |  Status: Up to date with 'innovation'
+> Working directory: Clean & optimized
 ```
 
 </div>
