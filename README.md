@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+kigemmanuel;Full+Stack+Developer;Telegram+Bot+Specialist;Building+the+future...)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&width=800&lines=👋+Hey,+I'm+kigemmanuel;💻+Full+Stack+Web+Developer;🤖+Telegram+Mini+App+Dev;🔗+Crypto+%26+Web3+Enthusiast;🚀+Building+the+Future;🌐+Open+Source+Contributor)</div>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 const kigemmanuel = {
     role: "Full Stack Developer",
     specialization: ["Telegram Bots", "Telegram Mini Apps", "Web Development"],
-    interests: ["Blockchain", "Cryptocurrency", "Web3"],
+    interests: ["Blockchain", "AI", "Web3"],
     mindset: "Problem solver, Code architect, Digital innovator",
     status: "Building the next generation of digital solutions",
     philosophy: "Code is poetry written in logic"
@@ -109,7 +109,7 @@ class Developer {
   constructor() {
     this.name = "Emmanuel";
     this.github = "@kigemmanuel";
-    this.specialties = ["Full Stack Web dev", "Telegram Bots", "Mini Apps"];
+    this.specialties = ["Full Stack Web dev", "Telegram Bots and Mini Apps"];
     this.availability = "Always ready for interesting projects";
   }
 
