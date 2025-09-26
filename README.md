@@ -1,14 +1,14 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Emmanuel;Full+Stack+Developer;Telegram+Bot+Specialist;Building+the+future...)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+kigemmanuel;Full+Stack+Developer;Telegram+Bot+Specialist;Building+the+future...)</div>
 
 <div align="center">
 
 ```ascii
- ███████╗██████╗ ███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██╗     
-██╔════╝██╔══██╗████╗ ████║████╗ ████║██╔══██╗████╗  ██║██║   ██║██╔════╝██║     
-█████╗  ██████╔╝██╔████╔██║██╔████╔██║███████║██╔██╗ ██║██║   ██║█████╗  ██║     
-██╔══╝  ██╔══██╗██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║     
-███████╗██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
+ ██╗  ██╗██╗ ██████╗ ███████╗███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗███╗   ██╗██╗   ██╗███████╗██╗     
+██║ ██╔╝██║██╔════╝ ██╔════╝████╗ ████║████╗ ████║██╔══██╗████╗  ██║████╗  ██║██║   ██║██╔════╝██║     
+█████╔╝ ██║██║  ███╗█████╗  ██╔████╔██║██╔████╔██║███████║██╔██╗ ██║██╔██╗ ██║██║   ██║█████╗  ██║     
+██╔═██╗ ██║██║   ██║██╔══╝  ██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚██╗██║██║   ██║██╔══╝  ██║     
+██║  ██╗██║╚██████╔╝███████╗██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║██║ ╚████║╚██████╔╝███████╗███████╗
+╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -29,12 +29,6 @@ const kigemmanuel = {
 
 console.log("🚀 Ready to revolutionize the digital world!");
 ```
-
-<div align="center">
-
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-
-</div>
 
 ---
 
@@ -108,8 +102,6 @@ Working directory: clean & optimized
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kigemmanuel&show_icons=true&theme=radical&hide_border=true&hide_rank=true&custom_title=My%20Highlights&hide=issues,prs,contribs,reviews,discussions_started,discussions_answered,total_commits&show=prs_merged_percentage,commits&commits_year=2025)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kigemmanuel&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -149,7 +141,9 @@ console.log(dev.connect());
 
 ### 💭 Developer Quote
 
-*"In a world of 1s and 0s, I create infinite possibilities"*
+**"In a world of 1s and 0s, I create infinite possibilities"**
+
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
