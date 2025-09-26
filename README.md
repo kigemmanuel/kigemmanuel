@@ -1,18 +1,16 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+kigemmanuel;Full+Stack+Developer;Telegram+Bot+Specialist;Building+the+future...)</div>
 
 <div align="center">
-
-```ascii
+<div style="font-family: 'Courier New', monospace; font-size: clamp(6px, 1.5vw, 10px); line-height: 1.1; overflow-x: auto; white-space: pre;">
  ██╗  ██╗██╗ ██████╗ ███████╗███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗███╗   ██╗██╗   ██╗███████╗██╗     
 ██║ ██╔╝██║██╔════╝ ██╔════╝████╗ ████║████╗ ████║██╔══██╗████╗  ██║████╗  ██║██║   ██║██╔════╝██║     
 █████╔╝ ██║██║  ███╗█████╗  ██╔████╔██║██╔████╔██║███████║██╔██╗ ██║██╔██╗ ██║██║   ██║█████╗  ██║     
 ██╔═██╗ ██║██║   ██║██╔══╝  ██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚██╗██║██║   ██║██╔══╝  ██║     
 ██║  ██╗██║╚██████╔╝███████╗██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║██║ ╚████║╚██████╔╝███████╗███████╗
 ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
-```
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About The Developer
