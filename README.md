@@ -108,7 +108,6 @@ class Developer {
   constructor() {
     this.name = "Emmanuel";
     this.github = "@kigemmanuel";
-    this.specialties = ["Full Stack Web dev", "Telegram Bots and Mini Apps"];
     this.availability = "Always ready for interesting projects";
   }
 
