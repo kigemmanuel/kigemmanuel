@@ -19,8 +19,6 @@
 ```js
 const kigemmanuel = {
     role: "Full Stack Developer",
-    specialization: ["Telegram Bots", "Telegram Mini Apps", "Web Development"],
-    interests: ["Blockchain", "AI", "Web3"],
     mindset: "Problem solver, Code architect, Digital innovator",
     status: "Building the next generation of digital solutions",
     philosophy: "Code is poetry written in logic"
